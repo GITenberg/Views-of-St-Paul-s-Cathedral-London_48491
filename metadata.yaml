@@ -1,4 +1,8 @@
 _repo: Views-of-St-Paul-s-Cathedral-London_48491
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48491-h/images/cover.jpg
 creator:
   author:
     agent_name: Sparrow-Simpson, W. J.
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44821'
     url: http://www.gutenberg.org/2009/agents/44821
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48491#Views-of-St-Paul-s-Cathedral-London
 gutenberg_issued: '2015-03-14'
 gutenberg_type: Text
 identifiers:
